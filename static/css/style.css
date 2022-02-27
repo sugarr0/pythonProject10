@@ -1,3 +1,7 @@
 h1{
 color: RED;
 }
+
+.form-control{
+margin-bottom: 10px;
+}
